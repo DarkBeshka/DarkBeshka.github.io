@@ -1,0 +1,73 @@
+/*
+box-sizing: border-box; - чтобы ширина объекта не скалдывалась
+из ширины+бордер+марджин, а была именно заданной(все будет 
+подстравиваться само)
+*/
+
+html {
+  font-size: 18px;
+  font-family: 'Comic Sans MS', 'Comic Sans', cursive;
+}
+/*ПОЧЕМУ НЕ РАБОТАЕТ ТО  background: url(img/спа1.jpg);*/
+h1 {
+  text-align: center;
+  margin-top: 50px;
+  display: inline-block;
+}
+.mycontainer {
+  font-size: 16px;
+  box-sizing: border-box;
+  display: inline-block;
+  background-color: lightyellow;
+  border: 2px;
+  border-color: black;
+  border-radius: 20px;
+  box-shadow: 4px 4px 8px 5px;
+  padding-bottom: 5px;
+  vertical-align: top;
+  height: 100%;
+  margin: 0px 15px 20px 15px;
+}
+h4 {
+  font-size: 20px;
+}
+.menu{
+  width: 100%;
+  background-color: #aeaeae;
+  height: 50px;
+  position:fixed;
+  top: 0;
+  left:0;
+  z-index: 10;
+}
+h2{
+  margin: 50px auto;
+  font-size: 26px;
+}
+img{
+  text-align: center;
+  width: 100%;
+  height: 40%;
+  border-radius: 20px;
+}
+.headertext iframe{
+  display: inline-block;
+  float: right;
+  padding-left: 10px;
+}
+.btn{
+  width:100%;
+  margin-top: 8px;
+  background-color: lightyellow;
+  border: none;
+}
+.formbox1 p{
+  font-weight: 600;
+  font-size: 20px;
+}
+.formbox1{
+    margin-top: 50px;
+}
+input{
+  margin-top: 8px;
+}
