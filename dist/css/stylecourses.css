@@ -79,7 +79,7 @@ button {
 }
 button:hover {
   cursor: pointer;
-  color: #e4ec04;
+  color: red;
 }
 .btnmodal {
   background-color: green;
