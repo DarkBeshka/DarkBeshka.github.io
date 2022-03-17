@@ -8,6 +8,9 @@ html {
   font-size: 18px;
   font-family: 'Comic Sans MS', 'Comic Sans', cursive;
 }
+body{
+  height: 1800px;
+}
 /*ПОЧЕМУ НЕ РАБОТАЕТ ТО  background: url(img/спа1.jpg);*/
 h1 {
   text-align: center;
@@ -70,4 +73,23 @@ img{
 }
 input{
   margin-top: 8px;
+}
+button {
+  transition: all 0.2s;
+}
+button:hover {
+  cursor: pointer;
+  color: #e4ec04;
+}
+.btnmodal {
+  background-color: green;
+  display: inline-block;
+}
+.link {
+  display: inline-block;
+}
+#minigame{
+  width: 100px;
+  height: 200px;
+  padding-bottom: 5px;
 }
