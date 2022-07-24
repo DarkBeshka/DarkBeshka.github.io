@@ -5,7 +5,7 @@
 
 [Первый опыт: Курсы массажа](https://darkbeshka.github.io/dist/ "Курсы массажа")
 
-[Первый проект: SaaS](https://darkbeshka.github.io/Project1/ "SaaS")
+[Первый проект: SaaS](https://darkbeshka.github.io/Project1/index.html "SaaS")
 
 # Другое
 
