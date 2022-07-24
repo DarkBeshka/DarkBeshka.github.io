@@ -1,11 +1,10 @@
 
 
 # Попытки в сайты
-Мои первые проекты. Удачи мне!
 
-[Первый опыт: Курсы массажа](https://darkbeshka.github.io/dist/ "Курсы массажа")
+[Курсы массажа](https://darkbeshka.github.io/dist/ "Курсы массажа")
 
-[Первый проект: SaaS](https://darkbeshka.github.io/Project1/index.html "SaaS")
+[SaaS](https://darkbeshka.github.io/Project1/src/index.html "SaaS")
 
 # Другое
 
