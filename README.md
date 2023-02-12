@@ -13,3 +13,5 @@
 [Тривиальный парсер](https://github.com/DarkBeshka/DarkBeshka.github.io/blob/main/myparcer.py)
 
 [Теория управления, программа 1](https://github.com/DarkBeshka/DarkBeshka.github.io/blob/main/managing1.py)
+
+[Теория управления, программа 3](https://github.com/DarkBeshka/DarkBeshka.github.io/blob/main/managing3.py)
