@@ -9,4 +9,5 @@
 # Другое
 
 [Телеграм-бот с ипользованием машинного обучения](https://colab.research.google.com/github/DarkBeshka/DarkBeshka.github.io/blob/main/ChatBotAI.ipynb)
-[Тривиальный парсер](https://darkbeshka.github.io/dist/ "Курсы массажа")
+
+[Тривиальный парсер](https://github.com/DarkBeshka/DarkBeshka.github.io/blob/main/myparcer.py)
