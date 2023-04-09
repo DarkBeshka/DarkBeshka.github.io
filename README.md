@@ -1,8 +1,6 @@
 
 
-# Попытки в сайты
-
-[Курсы массажа](https://darkbeshka.github.io/dist/ "Курсы массажа")
+# Cайты
 
 [SaaS](https://darkbeshka.github.io/Project1/src/index.html "SaaS")
 
