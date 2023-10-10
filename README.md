@@ -2,9 +2,9 @@
 
 # Cайты
 
-[SaaS](https://darkbeshka.github.io/Project1/src/index.html "SaaS")
+[LentaGo]
 
-# Другое
+# Учебные проекты
 
 [Телеграм-бот с ипользованием машинного обучения](https://colab.research.google.com/github/DarkBeshka/DarkBeshka.github.io/blob/main/ChatBotAI.ipynb)
 
